@@ -1,0 +1,41 @@
+.btn-primary {
+    border: 0px;
+    color: white;
+    background-color: var(--red);
+  }
+
+  .red {
+    color: var(--red);
+  }
+
+  .box{
+    background-color: lightgrey;
+  }
+
+section{
+    display: flex;
+    padding-top: 15%;
+    align-items: center;
+    flex-direction: column;
+}
+.card {
+    margin-bottom: 25px;
+    box-shadow: 0 10px 40px rgba(59, 43, 91, 0.3);
+  }
+
+  .table{
+      display: flex;
+      flex-direction: column-reverse;
+  }
+
+  .third {
+    background-image: url(/img/banner.jpg);
+  }
+
+  footer{
+      height: 30px;
+      display: flex;
+      justify-content: center;
+      padding-top: 20px;
+      padding-bottom: 50px;
+    }
