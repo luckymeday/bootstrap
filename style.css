@@ -12,9 +12,20 @@
     background-color: lightgrey;
   }
 
+  .copy{
+    font-size: 22px;
+  }
+.wrap {
+  font-size: 40px;
+  font-weight: bold;
+}
+
+
+
 section{
     display: flex;
-    padding-top: 15%;
+    padding-top: 10%;
+    padding-bottom: 10%;
     align-items: center;
     flex-direction: column;
 }
@@ -39,3 +50,5 @@ section{
       padding-top: 20px;
       padding-bottom: 50px;
     }
+
+  
